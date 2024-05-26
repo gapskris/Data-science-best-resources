@@ -117,6 +117,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
  [GitHub Python Data Science Spotlight: AutoML, NLP, Visualization, ML Workflows](https://www.kdnuggets.com/2018/08/github-python-data-science-spotlight.html)
 
+ [Data Science Roles – A Comprehensive Guide](https://www.scaler.com/blog/data-science-roles/)
+
 ## Books, Courses, Repos
 
  [Solved end-to-end Data Science projects](https://www.dezyre.com/projects/data-science-projects)
