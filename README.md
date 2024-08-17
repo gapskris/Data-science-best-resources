@@ -517,6 +517,9 @@ A trove of carefully curated resources and links (on the topics of software, pla
 ### Interview related
 
  [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)</dt>
+ 
+ [30+ SQL Interview Questions and Answers for Freshers](https://boldcoder.blogspot.com/2024/08/fresher-sql-interview-questions.html)</dt>
+
 
 
 ## Web Technologies
