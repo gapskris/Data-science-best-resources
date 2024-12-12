@@ -35,6 +35,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
 
  [When algorithms go wrong we need power to fight back, say researchers - The Verge](https://www.theverge.com/2018/12/8/18131745/ai-now-algorithmic-accountability-2018-report-facebook-microsoft-google)</dt>
 
+[When algorithms go wrong we need power to fight back, say researchers - The Applied AI Blogs](https://www.appliedaicourse.com/blog/ai-interview-questions/)</dt>
+
 ## AWS related
 
  [Amazon CloudWatch - Application and Infrastructure Monitoring](https://aws.amazon.com/cloudwatch/)
@@ -116,6 +118,8 @@ A trove of carefully curated resources and links (on the topics of software, pla
  [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/?utm_content=buffer9e308&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
  [GitHub Python Data Science Spotlight: AutoML, NLP, Visualization, ML Workflows](https://www.kdnuggets.com/2018/08/github-python-data-science-spotlight.html)
+
+ [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
 
 ## Books, Courses, Repos
 
